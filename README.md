@@ -18,7 +18,7 @@ Navigate your spacecraft through treacherous terrains and obstacles:
 ## Play the Game
 
 Experience PreSimulacrum now:
-[Play PreSimulacrum on Simmer.io](https://simmer.io/@lordviet/presimulacrum)
+[Play PreSimulacrum on itch.io](https://lordviet.itch.io/presimulacrum)
 
 ## The Bigger Picture
 
